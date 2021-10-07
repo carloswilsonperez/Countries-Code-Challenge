@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### API KEY
+
+In order to be able to run the below scripts, you need to get an API_KEY from https://countrylayer.com/ 
+
+I have provided mine here for convenience, but it could stop working at any time.
+
+The API endpoints are not providing certain country data anymore. In this project I am using only the available country information. In particular, the data for 'population' and 'language' is not available in the Free version of the API.
+
 ## Available Scripts
 
 In the project directory, you can run:
